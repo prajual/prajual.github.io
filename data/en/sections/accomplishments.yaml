@@ -1,0 +1,106 @@
+section:
+  name: Preparation (Intern and Placements)
+  id: accomplishments
+  template: sections/education-alt.html
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  #hideTitle: true
+
+degrees:
+- name: Placement Doc (To answer all your placement/intern questions)
+  publications: #Economics  Courses
+  - title: Placement Document
+    url : "https://docs.google.com/document/d/1az8Ky3LlqaRcRz0ZOE-tAC0KfCHEkfZk5aRzASZmadw/edit?usp=sharing"
+
+- name: Coding Preparation
+  publications: #Economics  Courses
+  - title: Slides and Questions (ESC101 and ESO207) [This link doesn't have all the questions and slides]
+    url : "https://drive.google.com/drive/folders/1ckphpTlNoMRWLmzSP6-eJrYiznUIU24R?usp=sharing"
+  - title: Leetcode
+    url : "https://leetcode.com/"
+  - title: Interview Bit
+    url: "https://www.interviewbit.com/courses/programming/"
+  - title: Hackerrank
+    url: "https://www.hackerrank.com/dashboard"
+    
+- name: Puzzles
+  publications: #
+  - title: Brainstellar
+    url: "https://brainstellar.com/"
+  - title: Gurmeet's Blog
+    url: "https://gurmeet.net/"
+  - title: Geeks for Geeks
+    url: "https://www.geeksforgeeks.org/puzzles/"  
+  - title: CSE Blog
+    url: "http://www.cseblog.com/"
+  - title: Briangle
+    url: "https://www.braingle.com/"
+
+- name: Quant Books
+  publications: #
+  - title: 50 challenging Problems in Prob and Stats
+    url: "https://drive.google.com/file/d/14JZmX7DsGnwLLdlOVYqLL0u5re60SJWl/view?usp=sharing"
+  - title: XinFeng Zhou 
+    url: "https://drive.google.com/file/d/1VKNgNLJXkijZyw3sWKjZdyZxWL7uhSY1/view?usp=sharing"
+  - title: Heard on the Street 
+    url: "https://drive.google.com/file/d/1quv3KHrt6IloHqN05k06qXLt6j4y2LeH/view?usp=sharing"
+  - title: Randomized Algorithms 
+    url: "https://drive.google.com/drive/folders/1tXg0ntvQ9G3JoxYFPlUh8qMOXR-cjCb_?usp=sharing"
+
+- name: Finance Books
+  publications: #
+  - title: JC hull (Derivative markets) 
+    url: "https://drive.google.com/file/d/1Cdk6w7TEZZbekS__vvjEWNoJ3dLX8lY4/view?usp=sharing"
+  - title: Investment by Bodie  
+    url: "https://drive.google.com/file/d/19FsjxWOoyqsUZnYp9rnDre-aboQR7VtI/view?usp=sharing"
+  - title: Derivatives Principle and Practice 
+    url: "https://drive.google.com/file/d/1gT4pBpGrq1bQAsqsyHQ5doVz38VjN-IR/view?usp=sharing"
+
+- name: Cases and Guesstimates
+  publications: #
+  - title: Victor cheng Videos 
+    url: "https://www.caseinterview.com/victor-cheng"
+  - title: Case interview cracked (IITB) 
+    url: "https://drive.google.com/file/d/1SvT-LZLZhIM4TIF164q6bG7vfkyuNMPA/view?usp=sharing"
+  - title: Day 1.0 (IITM) 
+    url: "https://drive.google.com/file/d/1Wvs_JalM1Xy6LQiNiEcYaxUv88YBcX4B/view?usp=sharing"
+  - title: Case in Point 
+    url: "https://drive.google.com/file/d/1H-Me9BOqQb5b3ADorFvl2en1KaMLXhWI/view?usp=sharing"
+  - title: ISB consulting Book
+    url: "https://drive.google.com/file/d/1keoJWmu7yicTy2ELpEZNPIZoF4sMLgKL/view?usp=sharing"
+  - title: London Business School
+    url: "https://drive.google.com/file/d/1YQquIYLmm7D81X_81vkWjr7ZMGwjnQzb/view?usp=sharing"
+  - title: IIM Ahmedabad
+    url: "https://drive.google.com/file/d/16cMbuBsOw0qYXRRBhMBfMpDgmN6lT8DN/view?usp=sharing"
+  - title: IITK book 
+    url: "https://drive.google.com/file/d/1rQuzkdhc-zlsZssOZJbOsdeK2vwHfq4W/view?usp=sharing"
+  - title: Other links
+    url: "https://drive.google.com/file/d/1FOAHtllwzx_YYkpmoA1L7_qOkRecLDtU/view?usp=sharing"
+
+- name: Courses Preparation (might change based on profile and dept.)
+  publications: #
+  - title: HSO201A / MSO201A - Probability and Statistics
+    url: "https://drive.google.com/drive/folders/1umU4BPCX24QKJz5Mn8RMHIy_QVjaJPfu?usp=sharing"
+  - title: ESO207A - Data Structures and Algorithms
+    url : "https://drive.google.com/drive/folders/101656axHYBxs1I-2gwSDFse-3VWfcVo-?usp=sharing" 
+  - title: Machine Learning (CS771A)
+  - title: ECO341A - Econometrics I
+    url: "https://drive.google.com/drive/folders/1yjRkM2O8GAS4s8RETCHEz3bKgr2BiOyr?usp=sharing"
+  - title: ECO342A - Econometrics II
+    url: "https://drive.google.com/drive/folders/1D_GiJ5-L4dWtxYZnCVPv4JQeWhgEzUpD?usp=sharing"
+  - title: ECO545A - Bayesian Econometrics
+    url: "https://drive.google.com/drive/folders/1BhgIpNtpKPduZcSV-TFyqJQZMt1D7_ml?usp=sharing"
+  - title: ECO764A - Financial Econometrics
+    url: "https://drive.google.com/drive/folders/1pJFEN1rgL91uAYdnRYMIIuoi4ls2ULRo?usp=sharing"
+  
+- name: Aptitude Preparation
+  publications: #
+  - title: Pariksha
+    url: "https://www.pariksha.co/"
+  - title: CAT preparation booklets like from TIME etc
+
+
+
+

@@ -1,0 +1,63 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "Professional"
+- name: Academic
+  filter: "Academic"
+- name: Hobby
+  filter: "Hobby"
+
+# your projects
+projects:
+- name: bqror - Bayesian Quantile Regression for Ordinal Regression
+  role: Author
+  timeline: "March 2019 - Present"
+  repo: https://github.com/prajual/bqror
+  summary: An R package bqror that estimates Bayesian quantile regression for ordinal models. The package classifies ordinal models into two types and offers computationally efficient, yet simple, Markov chain Monte Carlo (MCMC) algorithms for estimating ordinal quantile regression. The generic ordinal model with 3 or more outcomes (labeled OR I model) is estimated by a combination of Gibbs sampling and Metropolis-Hastings algorithm. Whereas an ordinal model with exactly 3 outcomes (labeled OR II model) is estimated using Gibbs sampling only.
+  tags: ["Professional","CRAN", "Open-Source"]
+
+- name: SURGE - Rocky Road to Success, Impact of Technology Adoption in Bangladesh
+  role: Author
+  timeline: "June 2018 - July 2018"
+  url: https://www.linkedin.com/in/prajual/details/experience/1537339167831/single-media-viewer/
+  summary: This project involved impact and interaction analysis of SRI adoption on food security and well being of farmers using STATA. It evaluates causal effects on treatment and training groups using TOT and ITT analysis with IV and OLS. Explored the untreated effect of SRI adoption on farmers in Bangladesh in the first-ever study of its type. The study concludes that SRI adoption is strongly correlated with productivity, food security and well being.
+  tags: ["Academic","Research"]
+  
+- name: NYU Intern - Master Voice Prints
+  role: Co-Researcher
+  timeline: "May 2018 - July 2018"
+  repo: https://github.com/prajual/Master-Voice_Prints
+  summary: This project revolves around investigating existence of universal voice prints that match a majority of users in text-independent speaker verification. I customized 4 state-of-the-art implementations of Speaker Verification including Deep Speaker and Ivector. Further verified using evaluation metrics like Accuracy and ROC that Neural networks based models perform the best. Tested all the models on Vox-Celeb dataset and ranked celebrities based on the uniqueness of their voice signature.
+  tags: ["Professional", "Machine-Learning","Academic","Open-Source"]
+  
+- name: Impact Of Apparel And Footwear Industry - A Case Of Bangladesh, Cambodia, Sri-Lanka, And Vietnam
+  role: Author
+  timeline: "Jan 2019 - Apr 2019"
+  summary: The project studies the impact of growth of the apparel and footwear sectors on the developmental indicators of a few developing countries. Analysed pure time series data from the World Bank to run our OLS model and applied separate linear regressions on various development indicators for each of the countries under analysis.
+  tags: ["Academic"]
+
+- name: Unification and visualization of Single Peakedness, Single crossing and Order restriction
+  role: Co-Researcher
+  timeline: "Oct 2017 - Aug 2018"
+  url: https://drive.google.com/file/d/1G3OI1xlw5IjwFoE7EzQhKF5OEhX5rvCq/view
+  summary: The project combines and visualizes Single peak, Single-Crossing and Order Restriction properties in the social choice framework. I introduced the concept of Preference Reversal Boundary which gives best policy and utility for any level of heterogeneity. The project unraveles the similarities in these properties and kept them different at the same time through visualization as proved in theory.
+  tags: ["Academic"]
+  
+- name: JCB Project
+  role: Team Member
+  timeline: "Aug 2017 - Nov 2017"
+  url: https://drive.google.com/drive/folders/1fw8xDx6RKdBIsMT_H_vR0nogcshxNc23
+  summary: This course project familiarized me with brazing, sheet metal forming, and casting process and used them on a real project. I Fabricated a working JCB Model which lifted up sand and worked with a team of 4 members to make the artistic workpiece. The team worked on improving a pre-existing model with new lifting mechanism via innovative thinking and skills.
+  tags: ["Academic"]

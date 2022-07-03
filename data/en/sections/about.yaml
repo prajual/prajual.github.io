@@ -1,0 +1,100 @@
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Quant Researcher
+# your company information
+company:
+  name: Ogha Research LLP.
+  url: "http://www.ogha-research.in/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/Resume.pdf"
+
+# a summary about you
+summary: 'I am a data and financial markets lover. Hence, I work as a quant researcher. I build trading startegies for high frequency market making using python and C++. My strategies are responsible for providing liquidity in the market and make money. In simple words, I eat data in breakfast, research papers in lunch and profits in dinner.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "prajual1391@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/prajual"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/prajual"
+  
+- name: Medium
+  icon: "fab fa-medium"
+  url: "https://medium.com/@prajual1391/"  
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/Prajualmaheshw2?t=VWAmBVy2GJQI-T-0Vsm3fw&s=09"
+
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/prajual_maheshwari/"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/prajual.maheshwari/"
+  
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+badges:
+- type: soft-skill-indicator
+  name: Ownership
+  percentage: 90
+  color: blue
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 85
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Smart Work
+  percentage: 95
+  color: Emerald  #orange
+  
+- type: soft-skill-indicator
+  name: Hard Work
+  percentage: 95
+  color: green
+  
+- type: soft-skill-indicator
+  name: Problem Solving
+  percentage: 85
+  color: orange
+  
+- type: soft-skill-indicator
+  name: Fast Learner
+  percentage: 90
+  color: sky blue
+  
+#- type: certification
+#  name: Charter of Financial Analyst Level I
+#  url: "http://basno.com/234wdxfj"
+#  badge: "https://s3.amazonaws.com/com.basno.storage/instances/234wdxfj_1632169459.png"
+
+#- type: certification
+#  name: Applied Data Science II Machine Learning & Statistical Analysis
+#  url: "https://www.credly.com/badges/622534b7-d755-473c-a1cb-de376098a555/public_url"
+#  badge: "https://images.credly.com/size/340x340/images/1ac74178-8974-426a-9f84-3b973bc5dc09/WQU_Credly_DataScience2_WithHonors.png"
+
+#- type: certification
+#  name: Big Data Foundations - Level 1
+#  url: "https://www.credly.com/badges/d99f7ef6-ecd9-4873-8981-4e6d52e9b093/public_url"
+#  badge: "https://images.credly.com/size/340x340/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png"

@@ -1,0 +1,107 @@
+# section information
+section:
+  name: Course - Resources
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Bachelor of Science, Economics
+  icon: fa-graduation-cap
+  timeframe: 2016-2020
+  institution:
+    name: Indian Institute of Technology, Kanpur
+    url: "https://www.iitk.ac.in/"
+    #grade: #(optional)
+    #scale: CGPA
+    #achieved: 9.6
+    #outOf: 10
+  publications: #Economics  Courses
+  - title: HSO201A - Probability and Statistics
+    url : "https://drive.google.com/drive/folders/18lPFH5DpUWX8A4D12qCO1yaTyTIoTMdY?usp=sharing"
+  - title: ECO201A - MicroEconomics I
+    url: "https://drive.google.com/drive/folders/1yrSgW4-WLuDM4zdFWA-ouIBK4eZoBhac?usp=sharing"
+  - title: ECO221A - MacroEconomics I
+    url: "https://drive.google.com/drive/folders/1usYPH1yL7Izqqtr8592ME0-xD7z6HUvz?usp=sharing"
+  - title: ECO261A - Mathematical Economics
+    url: "https://drive.google.com/drive/folders/1atgNhgRqUeIxJ7ww8Qwi7-bIHYGA4_DL?usp=sharing"
+  - title: ECO301A - MicroEconomics II
+    url: "https://drive.google.com/drive/folders/1OAbJdzdgGVJ8rt4fjWd8AtVJiQFmhq-o?usp=sharing"
+  - title: ECO311A - Development Economics
+    url : "https://drive.google.com/drive/folders/1JuOUiJPj72UmyGUVbLjjR0F59dOZvZCp?usp=sharing"
+  - title: ECO321A - MacroEcnomics II
+    url : "https://drive.google.com/drive/folders/1JTdqycjZC-iSOvcRtrGqx0rxQHjKHcaU?usp=sharing"
+  - title: ECO341A - Econometrics I
+    url: "https://drive.google.com/drive/folders/1yjRkM2O8GAS4s8RETCHEz3bKgr2BiOyr?usp=sharing"
+  - title: ECO342A - Econometrics II
+    url: "https://drive.google.com/drive/folders/1D_GiJ5-L4dWtxYZnCVPv4JQeWhgEzUpD?usp=sharing"
+  - title: ECO412A - International Trade
+    url : "https://drive.google.com/drive/folders/1b2mda9VL05NHbeUfk4jEXhBaKq1jzvpB?usp=sharing"
+  - title: ECO413A - Indian Economic Problem
+    url : "https://drive.google.com/drive/folders/1BAIcaFUJXVqsFgqHTXhEGUo6o-1OxcZv?usp=sharing"
+  - title: ECO414A - Industrial Economics
+    url : "https://drive.google.com/drive/folders/1uuj_6EaazzDpB5ArXv4faz5Q0r14EdFk?usp=sharing"
+  - title: ECO523A - Growth Economics
+    url: "https://drive.google.com/drive/folders/1RZEn10qoSluBiPrqIrI-vns-wANP2DfY?usp=sharing"
+  - title: ECO545A - Bayesian Econometrics
+    url: "https://drive.google.com/drive/folders/1BhgIpNtpKPduZcSV-TFyqJQZMt1D7_ml?usp=sharing"
+  - title: ECO764A - Financial Econometrics
+    url: "https://drive.google.com/drive/folders/1pJFEN1rgL91uAYdnRYMIIuoi4ls2ULRo?usp=sharing"
+  - title: ECO711A - Foundation of Finance
+    url : "https://drive.google.com/drive/folders/1gsbnZtawPtjjdDhioRjKytpuAuzanX1e?usp=sharing"
+  
+  - title: ESC201A - Introduction to Electronics Circuits
+    url : "https://drive.google.com/drive/folders/1KbdU9MZjwZbiJjF5yIeyg6Ni3xfOg0oh?usp=sharing"
+  - title: TA201A - Manufacturing Processes
+    url : "https://drive.google.com/drive/folders/14ryo3FsPfYVtoU24f2VOUZhXp6KXdeAO?usp=sharing"
+  - title: TA202A - Engineering Metrology
+    url : "https://drive.google.com/drive/folders/1S7wRWr6uPPcAj3X4QCiN9HQ4zs7DqbSB?usp=sharing"  
+  
+  - title: ESO201A - Thermodynamics
+    url : "https://drive.google.com/drive/folders/1ECwMPmQ-qA-Ktj909H1Eb3pQ68olVxvq?usp=sharing"
+  - title: ESO204A - Fluid Mechanics
+    url : "https://drive.google.com/drive/folders/15OXw5LgkQJbPy7aXqVsLbNcUsGVvnufV?usp=sharing"
+  - title: ESO207A - Data Structures and Algorithms
+    url : "https://drive.google.com/drive/folders/101656axHYBxs1I-2gwSDFse-3VWfcVo-?usp=sharing" 
+    
+  - title: IME692A - Advanced Statistical Methods for Business Analytics
+    url : "https://drive.google.com/drive/folders/1PVIk2troPpuFuojGfoTr5lDkYZQ3NruQ?usp=sharing"
+  - title: IME634A - Business Decision Analysis
+    url : "https://drive.google.com/drive/folders/1-17WS_-QF6ZSd7Sk5yuawKHUHnfUSmaq?usp=sharing"
+  - title: IME611A - Financial Engineering
+    url : "https://drive.google.com/drive/folders/1IA8NrQ0IYuTawwiVx0VJGDLLjbak5uwn?usp=sharing"  
+  - title: IME673A - Applied Machie Learning
+    url : "https://drive.google.com/drive/folders/1fu9Kg_O9Zl_oyTobiHZiDW0aO6416kt5?usp=sharing"
+  - title: MBA634A - Simulation Systems  
+    url : "https://drive.google.com/drive/folders/1BzsELn-9l3zZaL7hnUWmLzJzJVfKaSZ-?usp=sharing"
+  
+  - title: MTH628A - Topics in Topology
+    url : "https://drive.google.com/drive/folders/1TZkz_jjr3udcsnHLm5KCzRk5Ikd2gOUO?usp=sharing"
+  
+  - title: EE698V - Sigal Processing
+    url : "https://drive.google.com/drive/folders/1vwEC4XY3nsRvyilCtVXTcPeYjZ8R1SY3?usp=sharing"
+  
+- name: Higher Secondary School
+  icon: fa-school
+  timeframe: 2014-2016
+  institution:
+    name: Ch. Chhabil Dass Public School, Ghaziabad
+    url: "http://www.ccdps.in/"
+  grade: #(optional)
+    scale: percent
+    achieved: 96
+    outOf: 100
+- name: Secondary School Certificate
+  icon: fa-school
+  timeframe: 2001-2014
+  institution:
+    name: Ch. Chhabil Dass Public School, Ghaziabad
+    url: "http://www.ccdps.in/"
+  grade: #(optional)
+    scale: CGPA
+    achieved: 10
+    outOf: 10

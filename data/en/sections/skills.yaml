@@ -1,0 +1,27 @@
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Algorithmic Trading
+  #logo: /images/sections/skills/kubernetes.png
+  summary: "Experienced of developing (researching and backtesting), deploying and managing profitable trading strategies."
+  #url: "https://kubernetes.io/"
+  
+- name: Programming - Python and Cpp
+  #logo: /images/sections/skills/go.png
+  summary: "Experienced with Python for developing and backtesting strategies. Cpp is preferred for writing live market executions."
+  #url: "https://golang.org/" 
+    
+- name: Probability and Statistics
+  #logo: /images/sections/skills/kubernetes.png
+  summary: "'I couldn't claim that I was smarter than sixty-five other guys-but the average of sixty five other guys, certainly!' - Richard P. Feynman."
+  #url: "https://kubernetes.io/"
+  

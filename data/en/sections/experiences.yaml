@@ -1,0 +1,91 @@
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Ogha Research LLP
+    url: "http://www.ogha-research.in/"
+    location: Bangalore
+    overview: Ogha employs some of the most advanced and sophisticated techniques to identify and extract profit from market inefficiencies. The firm trades significant volumes in the Indian cash and derivatives markets. 
+  positions:
+  - designation: Quantitative Researcher
+    start: Aug 2022
+    #end: Jun 2022
+    #responsibilities:
+
+- company:
+    name: Dolat Capital
+    url: "https://www.dolatcapital.com/"
+    location: Mumbai
+    overview: Dolat Capital is a technology driven, multi strategy quantitative trading firm, trading in financial markets. They constantly work towards refinement and innovation, and is dedicated to producing superior returns by using mathematical and statistical methods.
+  positions:
+  - designation: Quantitative Analyst
+    start: Sep 2021
+    end: Jun 2022
+    responsibilities:
+    - Developed mathematical and statistical models using tick by tick data for market making at low latency in Indian equity markets
+    - Improved the market making execution by including features like mod-factor and modified the order placement and cancelling logic
+    - Worked on server management and researched on model validation, quantity automation, and signal sampling of model signals
+    
+- company:
+    name: American Express
+    url: "https://about.americanexpress.com/home/"
+    location: Gurgaon
+    overview: American Expresss is a widely recognized company for credit cards. It provides credit services to customers and merchants.
+  positions:
+  - designation: Management Trainee - Enterprise Digital Analytics (EDA)
+    start: Aug 2020
+    end: Aug 2021
+    responsibilities:
+    - Provided custom business-insights to strategic US merchants of American Express across travel, lodging and retail portfolios
+    - Spearheaded customer acquisition, covid-tracker and marketing insights for clients leveraging clustering, boosting and other ML algos
+    - Performed analysis for Ecomm-shift, customer profiling, and competition bench marking using hive, spark and other big data tools
+    
+- company:
+    name: Qualitative Financials (Intern)
+    location: Work from Home
+    overview: Qualitative Financials was a startup hedge fund in US. Their goal was to generate higher returns for their clients via algorithm based trading. 
+  positions:
+  - designation: Quantitative Researcer (Intern)
+    start: Mar 2020
+    end: Aug 2020
+    responsibilities:
+    - Designed, implemented and deployed robust algorithmic trading strategies for live trading in US equity and derivative market
+    - Explored differet indicators and back-tested 50+ trading strategies based on technical indicators like Alligator, MACD, FPP, etc., stock, options, news headlines and social media channels data
+    - Analyzed market sentiments, financial reports for trading signals, coded strategies using python API from Interactive brokers and used SQL for data basing 
+
+- company:
+    name: Fidelity Investments (Intern).
+    url: "https://india.fidelity.com/"
+    location: Chennai
+    overview: Fidelity investments is a leading financial advisory firm. It helps investors with access to information and expertise, to achieve their financial goals.
+  positions:
+  - designation: LEAP Intern
+    start: May 2019
+    end: Jul 2019
+    responsibilities:
+    - Developed an intelligent resume scanner from unstructured text of 1000+ resumes using Named Entity Recognition extraction, EDA, SVM model on TFIDF, Guided LDA, resume summarization using encoder - decoder LSTM
+    - Recorded 92% accuracy in classifying resumes across job profiles using deep learning and tracked 10+ ML models with H2O, MlFlow
+    - Implemented an end-to-end UI with Flask, Kibana and Elasticsearch, researched libraries and this product reduced recruitment time by 25% and saved 24 lakhs
+
+- company:
+    name: Shree Tech Solutions (Intern).
+    url: "https://www.stsolutions.co.in/"
+    location: Delhi
+    overview: Shree Tech Solutions help companies in their digital transformation journey by providing innovative solutions.
+  positions:
+  - designation: Analyst Internee
+    start: Nov 2018
+    end: Dec 2018
+    responsibilities:
+    - Created one-stop solution for 6 social media platforms including Twitter, Instagram and Youtube to provide boost for client’s business
+    - Visualized insights for client’s growth using EDA and 15+ natural language processing algorithms in python from their social handles
+    - Performed sentiment and time series analysis for 10+ years of client’s profile and published it on a python-django integrated website
+
